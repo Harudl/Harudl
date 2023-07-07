@@ -3,7 +3,7 @@ Soy una persona proactiva y comprometida. 💻<br>Disfruto colaborando con mis c
 <br>
 
 
-## 🌐 Socials:
+## 🌐 Red Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Edwin Paúl Chilán Holguin](https://www.linkedin.com/in/edwin-pa%C3%BAl-chil%C3%A1n-holguin-5ab579271/)) 
 
 # 💻 Tech Stack:
