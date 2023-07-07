@@ -1,5 +1,6 @@
-# 💫 About Me:
-I'm a proactive and committed person. 💻<br>I enjoy collaborating with my teammates, contributing ideas, working in an organized and responsible. 💡 <br>Currently, I'm constantly learning and training in new technologies for web development, in order to keep myself updated and continuously improve my performance in this area.<br>
+# 💫 Sobre mi:
+Soy una persona proactiva y comprometida. 💻<br>Disfruto colaborando con mis compañeros, aportando ideas, trabajando de forma organizada y responsable.💡 <br>Actualmente, estoy en constante aprendizaje y capacitación en nuevas tecnologías para el desarrollo web, con el fin de mantenerme actualizado y mejorar continuamente mi desempeño en esta área.
+<br>
 
 
 ## 🌐 Socials:
